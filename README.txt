@@ -27,3 +27,5 @@ Keterangan Folder:
 Format penamaan tabel temuan dan treklog: Organisasi_Lanskap_IDPetak
 
 Sebelum memulai, pastikan untuk membuat project pada program R dengan cara klik File - New Project - Existing Directory - Pilih direktori tempat menyimpan file.
+
+Cek R code dan file "Mengelola Data Hasil Survei Transek.pdf" yang telah diunggah untuk mempraktikkannya.
